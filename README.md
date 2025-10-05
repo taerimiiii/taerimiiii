@@ -86,7 +86,7 @@
   <br>
   <div align= "center">
     <a href="https://solved.ac/larforest/"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=larforest" /></a>
-    <img align="center" style="height:180px" src="http://mazandi.herokuapp.com/api?handle=larforest&theme=warm"/>
+    <a href="https://solved.ac/larforest/"><img align="center" style="height:180px" src="http://mazandi.herokuapp.com/api?handle=larforest&theme=warm"/></a>
   </div>
   <br>
 
