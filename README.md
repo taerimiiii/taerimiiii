@@ -79,8 +79,7 @@
   </div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taerimiiii&show_icons=true&theme=discord_old_blurple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taerimiiii)](https://github.com/taerimiiii/github-readme-stats)
-<a href="https://github.com/taerimiiii"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taerimiiii&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/taerimiiii"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taerimiiii&layout=compact&theme=discord_old_blurple&hide_border=true" /></a>
 
   <br>
 
