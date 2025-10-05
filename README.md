@@ -7,7 +7,7 @@
   <!--Body-->
   <div style="text-align: left;">
     <div align= "center">
-      <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Info</h1> <br>
+      <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Info</h1>
         <a href=https://hyper-noise-b36.notion.site/Kim-Taerim-281c2d48bf0080bfa8f5cad37517fbfd?pvs=74>
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://hyper-noise-b36.notion.site/Kim-Taerim-281c2d48bf0080bfa8f5cad37517fbfd?pvs=74">
         </a>
@@ -22,7 +22,7 @@
     <br>
 
   <div align= "center">
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Studying</h1> <br>
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Studying</h1>
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
@@ -31,7 +31,7 @@
   <br>
 
   <div align= "center">
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stack</h1> <br>
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stack</h1>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=PyPy&logoColor=white"/>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -57,7 +57,7 @@
   <br>
 
   <div align= "center">
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tool</h1> <br>
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tool</h1>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
       <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
