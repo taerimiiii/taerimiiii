@@ -77,7 +77,7 @@
   <div align= "center">
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">State</h1>
   </div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taerimiiii&show_icons=true&theme=discord_old_blurple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taerimiiii&show_icons=true&theme=discord_old_blurple)
   <br>
 
 <!--
