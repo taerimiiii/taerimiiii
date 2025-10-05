@@ -79,9 +79,10 @@
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">State</h1>
     <a href="https://github.com/taerimiiii"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=taerimiiii&show_icons=true&theme=discord_old_blurple&hide_border=true" /></a>
   </div>
+  <br>
   <div align= "center">
     <a href="https://solved.ac/larforest/"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=larforest" /></a>
-    <img align="center" style="height:180px" src="http://mazandi.herokuapp.com/api?handle=larforest&theme=dark"/>
+    <img align="center" style="height:180px" src="http://mazandi.herokuapp.com/api?handle=larforest&theme=warm"/>
   </div>
   <br>
 
