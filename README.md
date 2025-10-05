@@ -19,7 +19,7 @@
     <br>
 
   <div align= "center">
-  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Studying</h3> <br>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Studying</h2> <br>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
@@ -27,7 +27,7 @@
   <br>
 
   <div align= "center">
-  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stack</h3> <br>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stack</h2> <br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=PyPy&logoColor=white"/>
@@ -50,7 +50,7 @@
   <br>
 
   <div align= "center">
-  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tool</h3> <br>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tool</h2> <br>
     <img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=Intellijidea&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
@@ -60,13 +60,13 @@
   <br>
 
   <div align= "center">
-  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Certification</h3> <br>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Certification</h2> <br>
     <p></p>SQLD (한국데이터산업진흥원)</p>
   </div>
   <br>
 
   <div align= "center">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">State</h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">State</h2>  
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taerimiiii&show_icons=true&theme=radical)    
   </div>
   <br>
