@@ -22,7 +22,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swagger_85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/swagger_85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
   </div>
   <br>
 
@@ -32,14 +32,14 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=PyPy&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenJDK_000000?style=flat-square&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/openjdk_000000?style=flat-square&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/>
     <img src="https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=Expo&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5_E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html5_E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind CSS_06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Javascript_F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript_F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
