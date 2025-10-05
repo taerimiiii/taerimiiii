@@ -79,7 +79,7 @@
   </div>
 
 <a href="https://github.com/taerimiiii"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=taerimiiii&show_icons=true&theme=discord_old_blurple&hide_border=true" /></a>
-<a href="https://github.com/taerimiiii"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taerimiiii&layout=compact&theme=discord_old_blurple&hide_border=true&langs_count=6" /></a>
+<a href="https://github.com/taerimiiii"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=larforest)](https://solved.ac/larforest/" /></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=larforest)](https://solved.ac/larforest/)
 
