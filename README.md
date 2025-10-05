@@ -1,7 +1,8 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=You%20can%20do%20it!&textColor=FFD700&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=You%20can%20do%20it!%20%20%20%20You%20can%20do%20it!&fontSize=40&textColor=000000)
+
 
   
 </div>
