@@ -8,8 +8,8 @@
 <div>
   <!--Body-->
   <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Info</h2> <br>
     <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Info</h2> <br>
       <a href=https://taerimii.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://taerimii.tistory.com/"> </a>
       <a href=https://hyper-noise-b36.notion.site/Kim-Taerim-281c2d48bf0080bfa8f5cad37517fbfd?pvs=74>
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://hyper-noise-b36.notion.site/Kim-Taerim-281c2d48bf0080bfa8f5cad37517fbfd?pvs=74">
@@ -18,16 +18,16 @@
     </div>  
     <br>
 
-  <h3 align="center">Studying</h3> <br>
-  <div align="center">
+  <div align= "center">
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Studying</h3> <br>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
   </div>
   <br>
 
-  <h3 align="center">Tech Stack</h3> <br>
-  <div align="center">
+  <div align= "center">
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stack</h3> <br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=PyPy&logoColor=white"/>
@@ -49,8 +49,8 @@
   </div>
   <br>
 
-  <h3 align="center">Tool</h3> <br>
-  <div align="center">
+  <div align= "center">
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tool</h3> <br>
     <img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=Intellijidea&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
@@ -59,22 +59,17 @@
   </div>
   <br>
 
-  <h3 align="center">Certification</h3> <br>
-  <div align="center">
-    <ul>
-      <li>SQLD (한국데이터산업진흥원)</li>
-    </ul>
-  </div>
-  <br>
-  
-  
-  <h3 align="center">State</h3> <br>
-  <div align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taerimiiii)](https://github.com/anuraghazra/github-readme-stats)
+  <div align= "center">
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Certification</h3> <br>
+    <p></p>SQLD (한국데이터산업진흥원)</p>
   </div>
   <br>
 
-</div>
+  <div align= "center">
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">State</h2>  
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taerimiiii&show_icons=true&theme=radical)    
+  </div>
+  <br>
 
 <!--
 **taerimiiii/taerimiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
