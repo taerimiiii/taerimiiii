@@ -7,7 +7,7 @@
   <!--Body-->
   <div style="text-align: left;">
     <div align= "center">
-      <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Info</h4> <br>
+      <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Info</h1> <br>
         <a href=https://hyper-noise-b36.notion.site/Kim-Taerim-281c2d48bf0080bfa8f5cad37517fbfd?pvs=74>
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://hyper-noise-b36.notion.site/Kim-Taerim-281c2d48bf0080bfa8f5cad37517fbfd?pvs=74">
         </a>
@@ -22,7 +22,7 @@
     <br>
 
   <div align= "center">
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Studying</h4> <br>
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Studying</h1> <br>
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
@@ -31,7 +31,7 @@
   <br>
 
   <div align= "center">
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stack</h4> <br>
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stack</h1> <br>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=PyPy&logoColor=white"/>
@@ -55,7 +55,7 @@
   <br>
 
   <div align= "center">
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tool</h4> <br>
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tool</h1> <br>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
       <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
@@ -66,14 +66,14 @@
   <br>
 
   <div align= "center">
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Certification</h4>
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Certification</h1>
       <p></p>SQLD (한국데이터산업진흥원)</p>
   </div>
   <br>
   <br>
 
   <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">State</h2>  
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">State</h1>  
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taerimiiii&show_icons=true&theme=radical)    
   </div>
   <br>
