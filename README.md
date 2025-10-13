@@ -67,7 +67,7 @@
 
   <div align= "center">
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Certification</h1>
-      <p></p>SQLD (한국데이터산업진흥원)</p>
+      <p></p>SQLD (국가공인민간자격증)</p>
   </div>
   <br>
   <br>
