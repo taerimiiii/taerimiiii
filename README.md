@@ -12,8 +12,9 @@
 
 <div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📝 Studying</h2>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon_AWS&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon_AWS&logoColor=white">
 </div>
 <br>
 <br>
@@ -24,12 +25,12 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 <br>
 <br>
@@ -92,7 +93,7 @@
 <a href="https://solved.ac/larforest/"><img src="http://mazandi.herokuapp.com/api?handle=larforest&theme=warm" height="180" style="max-width: 100%;" /></a>
 </div>
 
-<a href="https://github.com/taerimiiii"><img src="https://github-readme-stats.vercel.app/api?username=taerimiiii&hide=contribs,prs&show_icons=true&theme=merko" alt="Taerim's GitHub stats" /></a>
+
 </div>
 <br>
 <br>
