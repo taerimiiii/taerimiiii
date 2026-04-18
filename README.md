@@ -4,7 +4,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👋 Info</h2>
 <a href="https://github.com/taerimiiii"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"></a>
 <a href="https://taerimii.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://taerimii.tistory.com/"></a>
-<a href="https://hyper-noise-b36.notion.site/Kim-Taerim-281c2d48bf0080bfa8f5cad37517fbfd?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://hyper-noise-b36.notion.site/324c2d48bf0080edb5c8c6839c6c72b4?source=copy_link"></a>
+<a href="https://hyper-noise-b36.notion.site/324c2d48bf0080edb5c8c6839c6c72b4?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://hyper-noise-b36.notion.site/324c2d48bf0080edb5c8c6839c6c72b4?source=copy_link"></a>
 <a href="mailto:shipton0201@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shipton0201@gmail.com"></a>
 </div> 
 <br>
