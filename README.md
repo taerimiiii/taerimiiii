@@ -93,7 +93,7 @@
 <a href="https://solved.ac/larforest/"><img src="http://mazandi.herokuapp.com/api?handle=larforest&theme=warm" height="180" style="max-width: 100%;" /></a>
 </div>
 
-
 </div>
-<br>
-<br>
+
+<div align="center">
+<p style="border-bottom: 1px solid #d8dee4; color: #282d33;">Bye bye Baekjoon!</p>
