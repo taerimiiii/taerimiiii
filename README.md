@@ -97,3 +97,66 @@
 
 <div align="center">
 <p style="border-bottom: 1px solid #d8dee4; color: #282d33;">Bye bye Baekjoon!</p>
+<p style="border-bottom: 1px solid #d8dee4; color: #282d33;">프그 이사 준비 중div>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 Tool</h2>
+<img src="https://img.shields.io/badge/Intellijidea-000000?style=for-the-badge&logo=Intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VScode-2F80ED?style=for-the-badge&logo=VScode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+</div>
+<br>
+<br>
+
+<div>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎖️ Certification</h2>
+<p>SQLD (국가공인민간자격증)</p>
+</div>
+<br>
+<br>
+
+<div align="left">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔭 Experience</h2>
+<table>
+  <tr>
+    <td width="180">2024.03 ~ </td>
+    <td>한국항공대학교 소프트웨어학과</td>
+  </tr>
+  <tr>
+    <td>2025.03 ~ 2025.08</td>
+    <td>UMC 8기 Web 챌린저 수료</td>
+  </tr>
+  <tr>
+    <td>2025.03 ~ 2025.11</td>
+    <td>알고리즘 학회 KOALA 심화반 수료 (18, 19, 20기)</td>
+  </tr>
+  <tr>
+    <td>2025.09 ~ 2025.10</td>
+    <td>오픈소스 컨트리뷰션 아카데미 체험형 수료</td>
+  </tr>
+  <tr>
+    <td>2025.09 ~ 2026.02</td>
+    <td>UMC 9기 Spring Boot 챌린저 수료</td>
+  </tr>
+  <tr>
+    <td>2026.01 ~</td>
+    <td>알고리즘 학회 KOALA 운영진</td>
+  </tr>
+</table>
+</div>
+<br>
+<br>
+
+<div align="center">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🌱 State</h2>
+
+<div>
+<a href="https://solved.ac/larforest/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=larforest" height="180" style="max-width: 100%;" /></a>
+<a href="https://solved.ac/larforest/"><img src="http://mazandi.herokuapp.com/api?handle=larforest&theme=warm" height="180" style="max-width: 100%;" /></a>
+</div>
+
+</div>
+
+<div align="center">
+<p style="border-bottom: 1px solid #d8dee4; color: #282d33;">Bye bye Baekjoon!</p>
+<p style="border-bottom: 1px solid #d8dee4; color: #282d33;">( ´-ω･)︻┻┳══━一 프그 이사 준비 중</p>
