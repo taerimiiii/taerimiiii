@@ -1,29 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=I%20can%20do%20it!&textColor=FFD700)
-
 <div>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👋 Info</h2>
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Info</h3>
 <a href="https://github.com/taerimiiii"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"></a>
 <a href="https://taerimii.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://taerimii.tistory.com/"></a>
 <a href="https://hyper-noise-b36.notion.site/346c2d48bf008020a915fa87055893d8?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://hyper-noise-b36.notion.site/346c2d48bf008020a915fa87055893d8?source=copy_link"></a>
 <a href="mailto:shipton0201@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shipton0201@gmail.com"></a>
-<blockquote>
-  <sub>잘 부탁드려요!</sub>
-</blockquote>
 </div>
-<br>
-<br>
+
 
 <div>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📝 Studying</h2>
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon_AWS&logoColor=white">
-</div>
-<br>
-<br>
-
-<div>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">⚙️ Tech Stack</h2>
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stack</h3>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
@@ -31,6 +16,9 @@
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 <br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon_AWS&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <br>
@@ -38,29 +26,26 @@
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
-<br>
-<br>
+
 
 <div>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 Tool</h2>
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tool</h3>
 <img src="https://img.shields.io/badge/Intellijidea-000000?style=for-the-badge&logo=Intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-2F80ED?style=for-the-badge&logo=VScode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </div>
-<br>
-<br>
+
 
 <div>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎖️ Certification</h2>
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Certification</h3>
 <p>SQLD (국가공인민간자격증)</p>
 </div>
-<br>
-<br>
+
 
 <div align="left">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔭 Experience</h2>
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Experience</h3>
 <table>
   <tr>
     <td width="180">2024.03 ~ </td>
@@ -100,11 +85,10 @@
   </tr>
 </table>
 </div>
-<br>
-<br>
+
 
 <div align="center">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🌱 State</h2>
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">State 🌱</h3>
 
 <div>
 <a href="https://solved.ac/larforest/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=larforest" height="180" style="max-width: 100%;" /></a>
