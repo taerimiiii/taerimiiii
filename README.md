@@ -99,4 +99,4 @@
 
 <div align="center">
 <p style="border-bottom: 1px solid #d8dee4; color: #282d33;">Bye bye Baekjoon!</p>
-<p style="border-bottom: 1px solid #d8dee4; color: #282d33;">프그 이사 준비 중 ( ´-ω･)︻┻┳══━一 </p>
+<p style="border-bottom: 1px solid #d8dee4; color: #282d33;">프그 다 풀면 백준이 돌아올거라 믿는 중 ㅁ-ㅁ! </p>
